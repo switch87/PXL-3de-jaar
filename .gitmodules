@@ -1,0 +1,3 @@
+[submodule "PXL-Web-Expert"]
+	path = PXL-Web-Expert
+	url = git@github.com:switch87/PXL-Web-Expert.git
